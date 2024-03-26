@@ -1,0 +1,67 @@
+{
+  "name": "skygret.dev",
+  "version": "1.0.0",
+  "description": "Streamlines the process of tracking and computing averages, ensuring precision and efficiency in your operations.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "ylebarge2med": "^1.0.0",
+    "skygret.dev": "^1.0.0",
+    "rregatervort8_app": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/repaskygreth5/skygret.dev.git"
+  },
+  "homepage": "https://github.com/repaskygreth5/skygret.dev/blob/main/README.md",
+
+  "issues": "https://github.com/repaskygreth5/skygret.dev/issues",
+
+  "keywords": ["random", "number", "generator"],
+
+
+  "author": "repaskygreth5",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
